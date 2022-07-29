@@ -1,0 +1,2 @@
+Changes from Dev 1
+This will add cmponents to settings page
